@@ -40,7 +40,7 @@ When to consider using Bob?
 If you want to go wild, and have Go 1.17 or later installed, the short version is:
 
 ```bash
-git clone https://github.com/benchkram/bob
+git clone https://github.com/di-dao/bob
 cd bob
 go install
 ```
